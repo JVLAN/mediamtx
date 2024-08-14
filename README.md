@@ -18,7 +18,7 @@ rtmp://streaming.jvlan.ch
 
 stream key : mystream
 
-
+NO B FRAME IN OBS For 8889 : bframes=0 in the decoder options x264
 
 https://github.com/bluenviron/mediamtx/issues/2600
 
