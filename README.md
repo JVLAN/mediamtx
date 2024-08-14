@@ -1,3 +1,19 @@
+AT JVLAN WE OFFER THE FOLLOWING PROTOCOLS : 
+
+[RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+
+[RTMP] listener opened on :1935
+
+[HLS] listener opened on :8888
+
+[WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+
+[SRT] listener opened on :8890 (UDP)
+
+
+
+
+
 <h1 align="center">
   <img src="logo.png" alt="MediaMTX / rtsp-simple-server">
 
