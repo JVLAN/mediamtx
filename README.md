@@ -10,6 +10,13 @@ AT JVLAN WE OFFER THE FOLLOWING PROTOCOLS :
 
 [SRT] listener opened on :8890 (UDP)
 
+Typical in OBS WHIP / RTMP
+
+https://streaming.jvlan.ch:8889/mystream/whip
+
+rtmp://streaming.jvlan.ch
+
+stream key : mystream
 
 
 
