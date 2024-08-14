@@ -20,6 +20,10 @@ stream key : mystream
 
 
 
+https://github.com/bluenviron/mediamtx/issues/2600
+
+
+
 
 <h1 align="center">
   <img src="logo.png" alt="MediaMTX / rtsp-simple-server">
