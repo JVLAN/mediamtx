@@ -23,6 +23,15 @@ NO B FRAME IN OBS For 8889 : bframes=0 in the decoder options x264
 https://github.com/bluenviron/mediamtx/issues/2600
 
 
+NDI cameras
+https://obsproject.com/forum/resources/distroav-network-audio-video-in-obs-studio-using-ndi%C2%AE-technology.528/
+
+
+OBS
+<img width="981" height="770" alt="image" src="https://github.com/user-attachments/assets/ad9114c6-d90a-437a-96d5-0843840874b2" />
+
+
+
 
 
 <h1 align="center">
