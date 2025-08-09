@@ -28,7 +28,8 @@ https://obsproject.com/forum/resources/distroav-network-audio-video-in-obs-studi
 
 
 OBS
-<img width="981" height="770" alt="image" src="https://github.com/user-attachments/assets/ad9114c6-d90a-437a-96d5-0843840874b2" />
+<img width="1080" height="768" alt="image" src="https://github.com/user-attachments/assets/a1c23c93-612e-4734-a747-29d0d981abf0" />
+
 
 
 
